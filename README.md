@@ -8,8 +8,11 @@ Experiment-Software
 This folder contains all the files for our online experiment. In order to run the code, you need to run a local web server and view the page. 
 
 How run a local web server?
+
    Step 1: install python
+
    Step 2: Run python -m SimpleHTTPServer 8000
+
    Step 3: Open http://localhost:8000/index.html using any web browser.
    
 
