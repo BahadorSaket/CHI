@@ -1,13 +1,15 @@
 # Data and Task Based Effectiveness of Basic Visualizations
-This repository contains all material for a crowdsourced study that evaluates the effectiveness of five basic visualization types (Table, Line Chart, Bar Chart, Scatterplot, and Pie Chart) across 10 different visual analysis tasks [1], three different data attributes (Nominal, Ordinal, Numerical), and two different datasets (Cars and Movies). 
+This repository contains all material for a crowdsourced study that evaluates the effectiveness of five basic visualization types (Table, Line Chart, Bar Chart, Scatterplot, and Pie Chart) across 10 different visual analysis tasks, three different data attributes (Nominal, Ordinal, Numerical), and two different datasets (Cars and Movies). 
 
 ###Visualizations used in our experiment
 ![screenshot 2016-10-03 11 21 01](https://cloud.githubusercontent.com/assets/22280917/19043418/0e698c86-895e-11e6-8fb9-5628a6ae0e81.png)
 
 ###Tasks used in our experiment
-####Retrieve Value. 
-For this task, we asked participants to identify values of attributes for given data points. For example, what is
-the value of horsepower for the cars? 
+
+Below, we listed different types of questions we asked participants in our study. Our tasks are based on the low-level task taxonomy proposed by Amar et al[1]. 
+
+####Retrieve Value.  
+For this task, we asked participants to identify values of attributes for given data points. For example, what is the value of horsepower for the cars? 
 
 ####Filter. 
 For given concrete conditions on data attribute values, we asked participants to find data points satisfying those conditions. For example, which car types have city miles per gallon
@@ -36,6 +38,9 @@ For a given a set of data points, we asked participants to find clusters of simi
 
 ####Find Correlation. 
 For a given set of two data attributes, we asked participants to determine if there is a correlation between them. To verify the responses to correlate tasks, we computed Pearson’s correlation coefficient (r) to ensure that there was an strong correlation (r ≤ −0.7 or r ≥ 0.7) between the two data attributes. For example, is there a strong correlation between average budget and movie rating?
+
+###Datasets used in our experiment
+In our experiment we used Cars and Movies datasets. Both datasets include data attributes of Nominal, Ordinal, and Numerical types. The Cars dataset provides details for 407 new cars and trucks for the year 2004. This dataset contains 18 data attributes describing each car. The Movies dataset provides details for 335 movies released from 2007 to 2012, and contains 13 data attributes.
 
 
 ## How to use the data and source code in this repository?
