@@ -1,13 +1,13 @@
-# CHI
-
+# Data and Task Based Effectiveness of Basic Visualizations
 This repository contains all material for a crowdsourced study that evaluates the effectiveness of five basic visualization types (Table, Line Chart, Bar Chart, Scatterplot, and Pie Chart) across 10 different visual analysis tasks [1], three different data attributes (Nominal, Ordinal, Numerical), and two different datasets (Cars and Movies). 
 
+## How to use the data and source code in this repository?
 
 ###Experiment-Software
 
 This folder contains all the files for our online experiment. In order to run the code, you need to run a local web server and view the page. 
 
-#####How to run a local web server?
+How to run a local web server?
 
    Step 1: install python
 
@@ -25,7 +25,7 @@ This folder contians data collected from the experiment. All files are in the .x
 This folder contains all the analysis we ran to make sense of our data. If you have SPSS installed on your machine you can check the raw data using SPSS as well. We also provided results of the spss in pdf format. You should be able to read the results without requiring SPSS on your machine. 
 
 
-***************************************
+
 
 Other Visualization of our results
 
