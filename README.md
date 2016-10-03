@@ -80,7 +80,7 @@ from user interactions. These extracted tasks can be used as input to the engine
 visualizations. All these applications would also benefit from models trained on the results of the current study (or any
 other empirical performance data) that can predict the task performance of “unseen" visualizations
 
-Other Visualization of our results
+###Other Visualization of our results
 ![screenshot 2016-10-03 12 08 31](https://cloud.githubusercontent.com/assets/22280917/19044424/3a67f9f4-8962-11e6-8d7a-b2bb6bf28677.png)
 
 ![screenshot 2016-10-03 12 08 00](https://cloud.githubusercontent.com/assets/22280917/19044427/3d152eba-8962-11e6-87e7-7e67886d1be3.png)
