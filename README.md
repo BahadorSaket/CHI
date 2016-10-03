@@ -1,6 +1,9 @@
 # Data and Task Based Effectiveness of Basic Visualizations
 This repository contains all material for a crowdsourced study that evaluates the effectiveness of five basic visualization types (Table, Line Chart, Bar Chart, Scatterplot, and Pie Chart) across 10 different visual analysis tasks [1], three different data attributes (Nominal, Ordinal, Numerical), and two different datasets (Cars and Movies). 
 
+![screenshot 2016-10-03 11 21 01](https://cloud.githubusercontent.com/assets/22280917/19043418/0e698c86-895e-11e6-8fb9-5628a6ae0e81.png)
+
+
 ## How to use the data and source code in this repository?
 
 ###Experiment-Software
