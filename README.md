@@ -29,3 +29,4 @@ This folder contains all the analysis we ran to make sense of our data. If you h
 
 Other Visualization of our results
 
+![condense](https://cloud.githubusercontent.com/assets/22280917/19042473/3670bd3e-895a-11e6-8d71-a65a7605bf13.jpg)
