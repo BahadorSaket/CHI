@@ -81,8 +81,10 @@ visualizations. All these applications would also benefit from models trained on
 other empirical performance data) that can predict the task performance of “unseen" visualizations
 
 Other Visualization of our results
+![screenshot 2016-10-03 12 08 31](https://cloud.githubusercontent.com/assets/22280917/19044424/3a67f9f4-8962-11e6-8d7a-b2bb6bf28677.png)
 
-![condense](https://cloud.githubusercontent.com/assets/22280917/19042473/3670bd3e-895a-11e6-8d71-a65a7605bf13.jpg)
+![screenshot 2016-10-03 12 08 00](https://cloud.githubusercontent.com/assets/22280917/19044427/3d152eba-8962-11e6-87e7-7e67886d1be3.png)
+
 
 
 ### References
