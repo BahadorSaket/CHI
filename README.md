@@ -3,7 +3,7 @@
 Visualizations of tabular data are widely used; understanding their effectiveness in different 
 task and data contexts is fundamental to scaling their impact. However, little is known about
 how basic tabular data visualizations perform across varying data analysis tasks and data attribute 
-types. In response, we conducted a for a crowdsourced study to evaluate the effectiveness of five 
+types. In response, we conducted a crowdsourced study to evaluate the effectiveness of five 
 basic visualization types (Table, Line Chart, Bar Chart, Scatterplot, and Pie Chart) across 10 
 different visual analysis tasks, three different data attributes (Nominal, Ordinal, Numerical), and 
 two different datasets (Cars and Movies). 
